@@ -18,14 +18,6 @@
     },  
     {
       "amiiboSeries": "Super Smash Bros",
-      "name": "Samus",
-      "gameSeries": "Metroid",
-      "release": "November 2014",
-      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c00000-00060002.png",
-      "website": "https://www.amazon.com/Samus-amiibo-Super-nintendo-wii-u/dp/B00N49EEO2"
-    },
-    {
-      "amiiboSeries": "Super Smash Bros",
       "name": "Ness",
       "gameSeries": "Earthbound",
       "release": "May 2015",

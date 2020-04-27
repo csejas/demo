@@ -25,7 +25,7 @@
       "website": "https://www.amazon.com/Samus-amiibo-Super-nintendo-wii-u/dp/B00N49EEO2"
     },
     {
-    "amiiboSeries": "Super Smash Bros",
+      "amiiboSeries": "Super Smash Bros",
       "name": "Ness",
       "gameSeries": "Earthbound",
       "release": "May 2015",
@@ -33,12 +33,60 @@
       "website": "https://www.amazon.com/amiibo-Super-Smash-Nintendo-Wii-U/dp/B00YOB78HE"
     },
     {
-    "amiiboSeries": "Super Smash Bros",
+      "amiiboSeries": "Super Smash Bros",
       "name": "Ryu",
       "gameSeries": "Street Fighter",
       "release": "March 2016",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c00000-02530002.png",
       "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B01A0LTNJC"
+    },
+    {
+      "amiiboSeries": "Animal Crossing",
+      "name": "Tom",
+      "gameSeries": "Animal Crossing",
+      "release": "January 2016",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_026c0001-00c30502.png",
+      "website": "https://www.amazon.com/Amiibo-Animal-Crossing-nintendo-wii-u/dp/B014KXMLXGE"
+    },
+    {
+      "amiiboSeries": "Animal Crossing",
+      "name": "Blathers",
+      "gameSeries": "Animal Crossing",
+      "release": "January 2016",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01920000-02470502.png",
+      "website": "https://www.bestbuy.com/site/nintendo-amiibo-figure-animal-crossing-series-blathers/4783800.p?skuId=4783800"
+    },
+    {
+      "amiiboSeries": "Animal Crossing",
+      "name": "Cyrus",
+      "gameSeries": "Animal Crossing",
+      "release": "November 2015",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_018b0000-02460502.png",
+      "website": "https://www.amazon.com/amiibo-Animal-Crossing-Bj%C3%B6rn-Video-Games/dp/B0158WB616"
+    },
+        {
+      "amiiboSeries": "Animal Crossing",
+      "name": "Reese",
+      "gameSeries": "Animal Crossing",
+      "release": "November 2015",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_018a0000-02450502.png",
+      "website": "https://www.amazon.com/amiibo-Crossing-Nintendo-Wii-U-3DS/dp/B017NFIGZK/ref=sr_1_2?dchild=1&keywords=Reese+amiibo&qid=1588026227&s=videogames&sr=1-2"
+    },
+    {
+      "amiiboSeries": "Legend of Zelda",
+      "name": "Revali",
+      "gameSeries": "Legend of Zelda",
+      "release": "November 2017",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01080000-035b0902.png",
+      "website": "https://www.amazon.com/Amiibo-Revali-Zelda-Breath-nintendo-3ds/dp/B072KJ357G"
+    },
+    {
+      "amiiboSeries": "Legend of Zelda",
+      "name": "Zelda",
+      "gameSeries": "Legend of Zelda",
+      "release": "Ma 2017",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-03560902.png",
+      "website": "https://www.amazon.com/Nintendo-amiibo-Zelda-Breath-Wild-wii-u/dp/B01N10NIBP"
     }
   ],
   "Status": "Ok"

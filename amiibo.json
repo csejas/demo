@@ -1,0 +1,45 @@
+{
+  "Amiibos": [
+    {
+      "amiiboSeries": "Super Smash Bros",
+      "name": "Mario",
+      "gameSeries": "Super Mario",
+      "release": "November 2014",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-00000002.png",
+      "website": "https://www.amazon.com/Mario-amiibo-Super-nintendo-wii-u/dp/B00N4ABMG4"
+    },
+    {      
+      "amiiboSeries": "Super Smash Bros",
+      "name": "Link",
+      "gameSeries": "Legend of Zelda",
+      "release": "November 2014",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000000-00040002.png",
+      "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00N4ABVOM"
+    },  
+    {
+      "amiiboSeries": "Super Smash Bros",
+      "name": "Samus",
+      "gameSeries": "Metroid",
+      "release": "November 2014",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-00000002.png",
+      "website": "https://www.amazon.com/Samus-amiibo-Super-nintendo-wii-u/dp/B00N49EEO2"
+    },
+    {
+    "amiiboSeries": "Super Smash Bros",
+      "name": "Ness",
+      "gameSeries": "Earthbound",
+      "release": "May 2015",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22800000-002c0002.png",
+      "website": "https://www.amazon.com/amiibo-Super-Smash-Nintendo-Wii-U/dp/B00YOB78HE"
+    },
+    {
+    "amiiboSeries": "Super Smash Bros",
+      "name": "Ryu",
+      "gameSeries": "Street Fighter",
+      "release": "March 2016",
+      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c00000-02530002.png",
+      "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B01A0LTNJC"
+    }
+  ],
+  "Status": "Ok"
+}

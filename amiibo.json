@@ -6,7 +6,8 @@
       "gameSeries": "Super Mario",
       "release": "November 2014",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-00000002.png",
-      "website": "https://www.amazon.com/Mario-amiibo-Super-nintendo-wii-u/dp/B00N4ABMG4"
+      "website": "https://www.amazon.com/Mario-amiibo-Super-nintendo-wii-u/dp/B00N4ABMG4",
+      "videoSiteURL": "https://www.youtube.com/watch?v=RXs4-M-ZiOg"
     },
     {      
       "amiiboSeries": "Super Smash Bros",
@@ -14,7 +15,8 @@
       "gameSeries": "Legend of Zelda",
       "release": "November 2014",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000000-00040002.png",
-      "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00N4ABVOM"
+      "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00N4ABVOM",
+      "videoSiteURL": "https://www.youtube.com/watch?v=RXs4-M-ZiOg"
     },  
     {
       "amiiboSeries": "Super Smash Bros",
@@ -22,7 +24,8 @@
       "gameSeries": "Earthbound",
       "release": "May 2015",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22800000-002c0002.png",
-      "website": "https://www.amazon.com/amiibo-Super-Smash-Nintendo-Wii-U/dp/B00YOB78HE"
+      "website": "https://www.amazon.com/amiibo-Super-Smash-Nintendo-Wii-U/dp/B00YOB78HE",
+      "videoSiteURL": "https://www.youtube.com/watch?v=RXs4-M-ZiOg"
     },
     {
       "amiiboSeries": "Super Smash Bros",
@@ -30,7 +33,8 @@
       "gameSeries": "Street Fighter",
       "release": "March 2016",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c00000-02530002.png",
-      "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B01A0LTNJC"
+      "website": "https://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B01A0LTNJC",
+      "videoSiteURL": "https://www.youtube.com/watch?v=1kalsCPXfaQ"
     },
     {
       "amiiboSeries": "Animal Crossing",
@@ -38,7 +42,8 @@
       "gameSeries": "Animal Crossing",
       "release": "January 2016",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_026c0001-00c30502.png",
-      "website": "https://www.amazon.com/Amiibo-Animal-Crossing-nintendo-wii-u/dp/B014KXMLXGE"
+      "website": "https://www.amazon.com/Amiibo-Animal-Crossing-nintendo-wii-u/dp/B014KXMLXGE",
+      "videoSiteURL": "https://www.youtube.com/watch?v=_3YNL0OWio0"
     },
     {
       "amiiboSeries": "Animal Crossing",
@@ -46,7 +51,8 @@
       "gameSeries": "Animal Crossing",
       "release": "January 2016",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01920000-02470502.png",
-      "website": "https://www.bestbuy.com/site/nintendo-amiibo-figure-animal-crossing-series-blathers/4783800.p?skuId=4783800"
+      "website": "https://www.bestbuy.com/site/nintendo-amiibo-figure-animal-crossing-series-blathers/4783800.p?skuId=4783800",
+      "videoSiteURL": "https://www.youtube.com/watch?v=2F2OU44TTaY"
     },
     {
       "amiiboSeries": "Animal Crossing",
@@ -54,7 +60,8 @@
       "gameSeries": "Animal Crossing",
       "release": "November 2015",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_018b0000-02460502.png",
-      "website": "https://www.amazon.com/amiibo-Animal-Crossing-Bj%C3%B6rn-Video-Games/dp/B0158WB616"
+      "website": "https://www.amazon.com/amiibo-Animal-Crossing-Bj%C3%B6rn-Video-Games/dp/B0158WB616",
+      "videoSiteURL": "https://www.youtube.com/watch?v=2F2OU44TTaY"
     },
         {
       "amiiboSeries": "Animal Crossing",
@@ -62,7 +69,8 @@
       "gameSeries": "Animal Crossing",
       "release": "November 2015",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_018a0000-02450502.png",
-      "website": "https://www.amazon.com/amiibo-Crossing-Nintendo-Wii-U-3DS/dp/B017NFIGZK/ref=sr_1_2?dchild=1&keywords=Reese+amiibo&qid=1588026227&s=videogames&sr=1-2"
+      "website": "https://www.amazon.com/amiibo-Crossing-Nintendo-Wii-U-3DS/dp/B017NFIGZK/ref=sr_1_2?dchild=1&keywords=Reese+amiibo&qid=1588026227&s=videogames&sr=1-2",
+      "videoSiteURL": "https://www.youtube.com/watch?v=2F2OU44TTaY"    
     },
     {
       "amiiboSeries": "Legend of Zelda",
@@ -70,7 +78,8 @@
       "gameSeries": "Legend of Zelda",
       "release": "November 2017",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01080000-035b0902.png",
-      "website": "https://www.amazon.com/Amiibo-Revali-Zelda-Breath-nintendo-3ds/dp/B072KJ357G"
+      "website": "https://www.amazon.com/Amiibo-Revali-Zelda-Breath-nintendo-3ds/dp/B072KJ357G",
+      "videoSiteURL": "https://www.youtube.com/watch?v=3T0-olhTvtM"
     },
     {
       "amiiboSeries": "Legend of Zelda",
@@ -78,7 +87,8 @@
       "gameSeries": "Legend of Zelda",
       "release": "Ma 2017",
       "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-03560902.png",
-      "website": "https://www.amazon.com/Nintendo-amiibo-Zelda-Breath-Wild-wii-u/dp/B01N10NIBP"
+      "website": "https://www.amazon.com/Nintendo-amiibo-Zelda-Breath-Wild-wii-u/dp/B01N10NIBP",
+      "videoSiteURL": "https://www.youtube.com/watch?v=22xSJohKwns"
     }
   ],
   "Status": "Ok"
